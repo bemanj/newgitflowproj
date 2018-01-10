@@ -6,3 +6,4 @@ C:\Users\rm004134263\AppData\Local\Temporary Projects\GitForms\obj\x86\Debug\Git
 C:\Users\rm004134263\AppData\Local\Temporary Projects\GitForms\obj\x86\Debug\GitForms.exe
 C:\Users\rm004134263\AppData\Local\Temporary Projects\GitForms\obj\x86\Debug\GitForms.xml
 C:\Users\rm004134263\AppData\Local\Temporary Projects\GitForms\obj\x86\Debug\GitForms.pdb
+C:\Users\rm004134263\source\workingrepo1\obj\x86\Debug\GitForms.xml
