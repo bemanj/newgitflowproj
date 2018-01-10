@@ -9,5 +9,8 @@
         End Set
     End Property
 
+    Sub AddEmployee()
+        MsgBox("New employee added")
+    End Sub
 
 End Class
